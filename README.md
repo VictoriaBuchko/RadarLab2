@@ -95,7 +95,7 @@ function onData(msg) {
 
 Після зміни параметрів та натискання кнопки Apply Parameters графік оновлюється відповідно до нових значень
 
-![Graph update after config](update.png)
+![Graph update after config](update.jpg)
 Рисунок 4 — Оновлення графіку після зміни параметрів радару
 
 ---
